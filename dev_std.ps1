@@ -23,6 +23,7 @@ Add-AppxPackage -Path ~/Ubuntu.appx
 
 #--- Fonts ---
 choco install -y inconsolata
+choco install -y hackfont
 
 #--- Languages ---
 choco install -y python
